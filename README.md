@@ -22,8 +22,8 @@ Python is the primary programming language, with machine learning frameworks suc
 ### Collaborators:
 This project succeeded thanks to the close collaboration of all contributors.
 1. Tran Si Dan
-2. Trinh Quoc Thinh
-3. Duong Van Nhut Duy
-4. Nguyen Thien Huy
+2. Nguyen Mai Trinh
+3. Nguyen Duy Duan
+
 
 
